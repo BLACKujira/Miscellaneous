@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52d0885314dcea845854b773add2f4c6, type: 3}
+  m_Name: "\u4E00\u4E2A\u4EBA\u7684\u3007\u3007\u5C0F\u65E5\u5B50"
+  m_EditorClassIdentifier: 
+  chapterDanmakus:
+  - xmls:
+    - {fileID: 4900000, guid: 978460c8b4087d043be8dea10b9fd44d, type: 3}
+    - {fileID: 4900000, guid: f0c4c99c5f03e3e4d8f61e924143bf9c, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: a5b7bf1bcd3ff9a4b9231467bc8875a9, type: 3}
+    - {fileID: 4900000, guid: bbf884daaa0c8544c8df118d4bd2f056, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: 2f0debd6bf2babc4da2bcc32ba6ec7ad, type: 3}
+    - {fileID: 4900000, guid: 4fdbe79ecbbe1684a8d7616503e036fb, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: e0434361f09e2654f88ca5299be659ad, type: 3}
+    - {fileID: 4900000, guid: 89864be5cd00933499dca6263910c815, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: f56442365f9aafb4eb36aef8078f8e10, type: 3}
+    - {fileID: 4900000, guid: bba0ad6175f29d148bc686d53bef9142, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: 57afdb055c996724fbeb32be287b6c5b, type: 3}
+    - {fileID: 4900000, guid: ef7901f8b36ab8044857e8db3f3898b9, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: c1c49b2ba4c3f874ebe42270465adabc, type: 3}
+    - {fileID: 4900000, guid: 121d8137eec730d498f65836fdc6c398, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: 075f8ec301581694ab738fdc2e64feae, type: 3}
+    - {fileID: 4900000, guid: 1dd64e51cb57a2b41a60e031bc5136ec, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: 02af0c34026285e439c6f4248268d8a1, type: 3}
+    - {fileID: 4900000, guid: 936d1fae89ef53f42ae3ecb72b32fa02, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: dfc539df94be28942b3523b6c7eef025, type: 3}
+    - {fileID: 4900000, guid: 98a91b060331aab48ad8be40eeee4a83, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: cfac1f13808480f418979105eba70daf, type: 3}
+    - {fileID: 4900000, guid: e848e3ba7db99e34ba59cd5cc6be3f59, type: 3}
+  - xmls:
+    - {fileID: 4900000, guid: 539282af78fed9b48889464d1af6a6c1, type: 3}
+    - {fileID: 4900000, guid: 9e5abb7639acf714186cfb4deee73b20, type: 3}
