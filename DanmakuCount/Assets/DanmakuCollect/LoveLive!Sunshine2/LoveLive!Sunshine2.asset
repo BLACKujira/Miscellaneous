@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52d0885314dcea845854b773add2f4c6, type: 3}
+  m_Name: LoveLive!Sunshine2
+  m_EditorClassIdentifier: 
+  animeName: 
+  chapterDanmakus:
+  - chapter: "\u7B2C1\u8BDD"
+    title: "\u4E0B\u4E00\u6B65"
+    duration: 1426
+    files:
+    - {fileID: 4900000, guid: 2d31f6961241a5445b021f3bc5acebde, type: 3}
+  - chapter: "\u7B2C2\u8BDD"
+    title: "\u96E8\u4E4B\u58F0"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: bf7314d4e2d066248ba9e41f5c902a47, type: 3}
+  - chapter: "\u7B2C3\u8BDD"
+    title: "\u5F69\u8679"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 1b31421245f077e40b1f9c13ad2d09f6, type: 3}
+  - chapter: "\u7B2C4\u8BDD"
+    title: "\u4E0D\u8981\u53EB\u6211\u9EDB\u96C5\u5B66\u59D0"
+    duration: 1425.001
+    files:
+    - {fileID: 4900000, guid: d584425dc7909234996c7f8b094da930, type: 3}
+  - chapter: "\u7B2C5\u8BDD"
+    title: "\u6361\u5230\u4E00\u53EA\u72D7"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 3ed36457c27725c42bf0d3558d2d844d, type: 3}
+  - chapter: "\u7B2C6\u8BDD"
+    title: "\u7231\u514B\u5A05 \u6D6A\u6F6E"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 9a440c4c322508c4987b05230131b9ea, type: 3}
+  - chapter: "\u7B2C7\u8BDD"
+    title: "\u5269\u4E0B\u7684\u65F6\u95F4"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 57e921994748f9a47a8f12be4df410bd, type: 3}
+  - chapter: "\u7B2C8\u8BDD"
+    title: "\u51FD\u9986"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: d23877ddc6d68474cb5cca6871c98885, type: 3}
+  - chapter: "\u7B2C9\u8BDD"
+    title: "\u5524\u9192\u529B\u91CF"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: d8aaf8c060e7ece49aed0405d95369ea, type: 3}
+  - chapter: "\u7B2C10\u8BDD"
+    title: "\u5BFB\u627E\u5149\u8292"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 6202e71eb3050394d937b49925f41ff4, type: 3}
+  - chapter: "\u7B2C11\u8BDD"
+    title: "\u6D66\u4E4B\u661F\u5973\u5B66\u9662"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 26058170f53ccf54d9407222df807717, type: 3}
+  - chapter: "\u7B2C12\u8BDD"
+    title: "\u5149\u4E4B\u6D77"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: c9061c9909f17c04e9699d944e75c751, type: 3}
+  - chapter: "\u7B2C13\u8BDD"
+    title: "\u6211\u4EEC\u7684\u5149\u8292"
+    duration: 1425
+    files:
+    - {fileID: 4900000, guid: 4af6473429745ea4b891dc4e0322919b, type: 3}
