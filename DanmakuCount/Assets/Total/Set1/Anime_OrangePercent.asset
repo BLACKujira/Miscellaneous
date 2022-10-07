@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f47c5559a8ff6f2498018e04273f399d, type: 3}
+  m_Name: Anime_OrangePercent
+  m_EditorClassIdentifier: 
+  rankTableItems:
+  - key: "\u604B\u7231\u5C0F\u884C\u661F"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 8.685%"
+    preview: {fileID: 21300000, guid: a92dde3a8fc55094196528d8ebb1fd8c, type: 3}
+  - key: "\u5973\u5B69\u7684\u9493\u9C7C\u6162\u6D3B"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 5.099%"
+    preview: {fileID: 21300000, guid: fc60e6e6441407949bed52b2f90e7865, type: 3}
+  - key: "\u90BB\u5BB6\u7D22\u83F2"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 5.050%"
+    preview: {fileID: 21300000, guid: 676b537402b0a344ab1256c4162fdcd6, type: 3}
+  - key: NEW GAME!
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 4.825%"
+    preview: {fileID: 21300000, guid: d03fae19f992bac4b8a53d8d4499154d, type: 3}
+  - key: "\u8BF7\u95EE\u60A8\u4ECA\u5929\u8981\u6765\u70B9\u5154\u5B50\u5417\uFF1F"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 4.442%"
+    preview: {fileID: 21300000, guid: 3a9946582b2efaf4cb39cc8f467f9a6c, type: 3}
+  - key: "\u8BF7\u95EE\u60A8\u4ECA\u5929\u8981\u6765\u70B9\u5154\u5B50\u5417\uFF1FBLOOM"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 4.360%"
+    preview: {fileID: 21300000, guid: 964f0c17a70591e4ca0e89c697d474d5, type: 3}
+  - key: "\u4E00\u4E2A\u4EBA\u7684\u3007\u3007\u5C0F\u65E5\u5B50"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 4.058%"
+    preview: {fileID: 21300000, guid: b5d9022c33405914b99375d183747417, type: 3}
+  - key: Comic Girls
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.769%"
+    preview: {fileID: 21300000, guid: 7be483a0d9ae04d41a1abd76801b7106, type: 3}
+  - key: NEW GAME!!
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.646%"
+    preview: {fileID: 21300000, guid: 9d69dbaf26f497e4eb9a26334de853a5, type: 3}
+  - key: Anne Happy
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.597%"
+    preview: {fileID: 21300000, guid: a49be01d554c4164b9564b5f65890e10, type: 3}
+  - key: "\u8857\u89D2\u9B54\u65CF"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.408%"
+    preview: {fileID: 21300000, guid: bf9c8261e94c3fc4283b16a8fb3939da, type: 3}
+  - key: "\u8BF7\u95EE\u60A8\u4ECA\u5929\u8981\u6765\u70B9\u5154\u5B50\u5417\uFF1F\uFF1F"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.394%"
+    preview: {fileID: 21300000, guid: aeedb42c929414f46a6542583b14ca29, type: 3}
+  - key: "\u5929\u4F7F\u964D\u4E34\u5230\u6211\u8EAB\u8FB9"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.377%"
+    preview: {fileID: 21300000, guid: a90d834f87ac09f4aa7020cb4b66571b, type: 3}
+  - key: "\u5C0F\u6797\u5BB6\u7684\u9F99\u5973\u4EC6"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 3.002%"
+    preview: {fileID: 21300000, guid: 4da4f2754c3125543b5db3cfa66a8a8d, type: 3}
+  - key: "\u96CF\u5B50\u7684\u7B14\u8BB0"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 2.976%"
+    preview: {fileID: 21300000, guid: 3a547c6353691094693b2bf5e10f7e7c, type: 3}
+  - key: "URARA\u8FF7\u8DEF\u5E16"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 2.854%"
+    preview: {fileID: 21300000, guid: c47841418b47965489bc6c7e64f2602a, type: 3}
+  - key: "\u73C8\u767E\u7483\u7684\u5815\u843D"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 1.632%"
+    preview: {fileID: 21300000, guid: a18ea446027ee404a8782e8662be0481, type: 3}
+  - key: "\u5C0F\u6797\u5BB6\u7684\u9F99\u5973\u4EC6S"
+    value: "\u6A59\u8272\u5F39\u5E55\u5360\u6BD4 1.503%"
+    preview: {fileID: 21300000, guid: 6dee3a3d859432540a5b339a6cc45739, type: 3}

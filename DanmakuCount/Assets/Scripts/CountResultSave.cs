@@ -19,6 +19,8 @@ namespace CitrusDammakuCount
         public int GreenDanmakuCount =>
                 (from ChapterCountResultSave ccrs in chapterCountResults
                  select ccrs.GreenDanmakuCount).Sum();
+        public float OrangeDanmakuPercent => (float)OrangeDanmakuCount / SampleDanmakuCount;
+        public float GreenDanmakuPercent => (float)GreenDanmakuCount / SampleDanmakuCount;
         public MaxCountResult maxCountResult;
 
         public int MaxValue =>
