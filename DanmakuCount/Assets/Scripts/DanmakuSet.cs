@@ -8,11 +8,6 @@ namespace CitrusDammakuCount
     {
         public HashSet<Danmaku> danmakus = new HashSet<Danmaku>();
 
-        public DanmakuSet(HashSet<Danmaku> danmakus)
-        {
-            this.danmakus = danmakus;
-        }
-
         public DanmakuSet(params XmlDocument[] xmlDocuments)
         {
             foreach (var xmlDocument in xmlDocuments)

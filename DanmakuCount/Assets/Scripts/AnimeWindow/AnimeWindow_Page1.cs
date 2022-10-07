@@ -8,7 +8,6 @@ using UnityEngine.UI;
 
 namespace CitrusDammakuCount.AnimeWindow
 {
-
     public class AnimeWindow_Page1 : MonoBehaviour
     {
         public UniversalGeneratorV2 universalGenerator;
@@ -20,7 +19,7 @@ namespace CitrusDammakuCount.AnimeWindow
         [Header("Prefab")]
         public Page1_Item itemPrefab;
 
-        protected virtual IEnumerator ShowItem()
+        IEnumerator ShowItem()
         {
             foreach (var item in universalGenerator.Items)
             {

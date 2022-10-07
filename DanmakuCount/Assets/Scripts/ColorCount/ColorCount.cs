@@ -38,23 +38,23 @@ namespace CitrusDammakuCount.ColorCount
 
             foreach (var danmaku in otherDanmakus)
             {
-                otherCount[danmaku.Color] =
-                    otherCount.ContainsKey(danmaku.Color) ?
-                    otherCount[danmaku.Color] + 1 :
+                otherCount[danmaku.color] =
+                    otherCount.ContainsKey(danmaku.color) ?
+                    otherCount[danmaku.color] + 1 :
                     1;
             }
             foreach (var danmaku in orangeDanmakus)
             {
-                orangeCount[danmaku.Color] =
-                    orangeCount.ContainsKey(danmaku.Color) ?
-                    orangeCount[danmaku.Color] + 1 :
+                orangeCount[danmaku.color] =
+                    orangeCount.ContainsKey(danmaku.color) ?
+                    orangeCount[danmaku.color] + 1 :
                     1;
             }
             foreach (var danmaku in greenDanmakus)
             {
-                greenCount[danmaku.Color] =
-                    greenCount.ContainsKey(danmaku.Color) ?
-                    greenCount[danmaku.Color] + 1 :
+                greenCount[danmaku.color] =
+                    greenCount.ContainsKey(danmaku.color) ?
+                    greenCount[danmaku.color] + 1 :
                     1;
             }
 

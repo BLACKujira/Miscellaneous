@@ -8,7 +8,6 @@ namespace CitrusDammakuCount
     [Serializable]
     public class ChapterCountResultSave
     {
-        public ChapterMetadata chapterMetadata;
         public int collectedDanmakuCount;
         public int sampleDanmakuCount;
         public int OrangeDanmakuCount =>
@@ -17,8 +16,6 @@ namespace CitrusDammakuCount
         public int GreenDanmakuCount =>
             (from IntervalCountSave ics in intervalCountGreen
              select ics.count).Sum();
-        public float OrangeDanmakuPercent => (float)OrangeDanmakuCount / sampleDanmakuCount;
-        public float GreenDanmakuPercent => (float)GreenDanmakuCount / sampleDanmakuCount;
 
         public int MaxValue
         {
@@ -37,7 +34,6 @@ namespace CitrusDammakuCount
 
         public ChapterCountResultSave(ChapterCountResult chapterCountResult)
         {
-            chapterMetadata = chapterCountResult.chapterMetadata;
             collectedDanmakuCount = chapterCountResult.collectedDanmakuCount;
             sampleDanmakuCount = chapterCountResult.SampleDanmakuCount;
             intervalCountOrange = new List<IntervalCountSave>(

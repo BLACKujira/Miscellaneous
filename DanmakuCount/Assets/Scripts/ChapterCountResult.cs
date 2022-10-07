@@ -4,7 +4,6 @@ namespace CitrusDammakuCount
 {
     public class ChapterCountResult
     {
-        public ChapterMetadata chapterMetadata;
         public readonly int collectedDanmakuCount;
         public int SampleDanmakuCount => sampleDanmakus.Count;
         public int OrangeDanmakuCount
@@ -61,9 +60,8 @@ namespace CitrusDammakuCount
         public readonly IntervalCount[] intervalCountOrange;
         public readonly IntervalCount[] intervalCountGreen;
 
-        public ChapterCountResult(ChapterMetadata chapterMetadata, int collectedDanmakuCount, HashSet<Danmaku> sampleDanmakus, IntervalCount[] intervalCountOrange, IntervalCount[] intervalCountGreen)
+        public ChapterCountResult(int collectedDanmakuCount, HashSet<Danmaku> sampleDanmakus, IntervalCount[] intervalCountOrange, IntervalCount[] intervalCountGreen)
         {
-            this.chapterMetadata = chapterMetadata;
             this.collectedDanmakuCount = collectedDanmakuCount;
             this.sampleDanmakus = sampleDanmakus;
             this.intervalCountOrange = intervalCountOrange;
